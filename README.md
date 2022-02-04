@@ -1,6 +1,6 @@
 # vue_practice_w4
  Vue 的元件練習
-DEMO：https://haojicai.github.io/vue_practice_w4//templates/manager_login.html
+DEMO：https://haojicai.github.io/vue_practice_w4/templates/manager_login.html
 
 系統功能：  
 >>● 管理者（登入）功能  

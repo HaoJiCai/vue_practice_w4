@@ -1,5 +1,4 @@
 # vue_practice_w4
- Vue 的元件練習
 DEMO：https://haojicai.github.io/vue_practice_w4/templates/manager_login.html
 
 系統功能：  
